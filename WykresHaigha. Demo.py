@@ -1779,7 +1779,7 @@ class Ui_MainWindow(object):
         plt.plot(x,y,label='Obszar bezpiecznych obciążeń',color='black',linewidth=3)
         plt.xlabel('Naprężenie średnie σ [MPa]')
         plt.ylabel('Naprężenie amplitudalne σ [MPa]')
-        plt.title('Exemplary graph. Download full version to get valid figure.')
+        plt.title('Wykres Haigha')
         plt.legend()
         x=[0,0,x5,0]
         y=[Re,Zgo,y5,k]
