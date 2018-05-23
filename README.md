@@ -7,7 +7,7 @@ Project created with Polish desctription.
 
 ![](https://raw.githubusercontent.com/KarDomProg/Fatigue-strength/master/obrazy/MainWindow.png)
 
-Demontration version dont allow to calculate or create solution in three pages. First page "Working coefficient. Stretching - compressing" is avaible in full option.
+Demontration version dont allow to calculate or create solution in three pages. First page "Working coefficient. Stretching - compressing" is avaible in full option. Available action: page 2 - calculate with Haigh graph, page 3 - Haigh graph, page 4 - not available any action.
 
 ![](https://raw.githubusercontent.com/KarDomProg/Fatigue-strength/master/obrazy/FirstPage.png)
 
