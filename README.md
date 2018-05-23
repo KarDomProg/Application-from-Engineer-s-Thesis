@@ -9,6 +9,8 @@ Project created with Polish desctription.
 
 Demontration version dont allow to calculate or create solution in three pages. First page "Working coefficient. Stretching - compressing" is avaible in full option.
 
+![](https://raw.githubusercontent.com/KarDomProg/Fatigue-strength/master/obrazy/FirstPage.png)
+
 Project base: matplotlib, qt, pyuic, pyinstaller.
 
 License
