@@ -14,7 +14,7 @@ Demontration version dont allow to calculate or create solution in three pages. 
 Project base: matplotlib, qt, pyuic, pyinstaller.
 
 
-Download 
+Download (.exe)
 
 [Demonstration version](https://chomikuj.pl/rn94nr/Wykres+Haigha+(Haigh+graph)).
 
