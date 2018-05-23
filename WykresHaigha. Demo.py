@@ -1702,7 +1702,7 @@ class Ui_MainWindow(object):
 "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:16pt;\"><br /></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:16pt;\">DEMO VERSION.<br /><br /></span><span style=\" font-size:11pt;\">Install full version for description.</span></p></body></html>", None))
 
-        self.textEdit_13.setText(M_str)
+        self.textEdit_13.setText("v.Demo")
                 
     def wykres3(self):
         Mgm0 = float(str(self.textEdit_14.toPlainText()).replace(",","."))
@@ -1779,7 +1779,7 @@ class Ui_MainWindow(object):
         plt.plot(x,y,label='Obszar bezpiecznych obciążeń',color='black',linewidth=3)
         plt.xlabel('Naprężenie średnie σ [MPa]')
         plt.ylabel('Naprężenie amplitudalne σ [MPa]')
-        plt.title('Wykres Haigha')
+        plt.title('Exemplary graph. Download full version to get valid figure.')
         plt.legend()
         x=[0,0,x5,0]
         y=[Re,Zgo,y5,k]
@@ -1926,7 +1926,7 @@ class Ui_MainWindow(object):
 "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:16pt;\"><br /></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:16pt;\">DEMO VERSION.<br /><br /></span><span style=\" font-size:11pt;\">Install full version for description.</span></p></body></html>", None))
 
-        self.textEdit_21.setText(W_str)
+        self.textEdit_21.setText("v.Demo")
                 
     def wykres4(self):
         mnoznik = float(str(self.textEdit_31.toPlainText()).replace(",","."))
@@ -2005,7 +2005,7 @@ class Ui_MainWindow(object):
         plt.plot(x,y,label='Obszar bezpiecznych obciążeń',color='black',linewidth=3)
         plt.xlabel('Naprężenie średnie σ [MPa]')
         plt.ylabel('Naprężenie amplitudalne σ [MPa]')
-        plt.title('Wykres Haigha')
+        plt.title('Exemplary graph. Download full version to get valid figure.')
         plt.legend()
         x=[0,0,x5,0]
         y=[Re,Zgo,y5,k]
