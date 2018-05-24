@@ -10,7 +10,7 @@ Demo version in Polish language.
 
 # Author: Karol Domanski
 # Date: 12/2017
-# Version: Demo 1.0
+# Version: Demo 1.2
 
 """
 
